@@ -7,4 +7,4 @@ Using Emacs :
  http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
  
  #markup
- languages: pdf, html, css, xml, sgml ,restructured text, org-mode,trof, text, latext
+ languages: pdf, html, css, xml, sgml ,restructured text, org-mode,trof, text, latext,markdown (github)
