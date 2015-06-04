@@ -1,6 +1,6 @@
 [Graphs](#Graphs);
 [markup](#markup);
-[documentation generators](#documentation generators);
+[documentation generators](#documentation-generators);
 
 ##Graphs
 ###editing
