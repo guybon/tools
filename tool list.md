@@ -18,5 +18,7 @@ graphviz dot graphs
 * http://en.wikipedia.org/wiki/List_of_user_interface_markup_languages
 * http://en.wikipedia.org/wiki/List_of_vector_graphics_markup_languages
 
+markdown http://daringfireball.net/projects/markdown/
+
 ##documentation generators
 Using Python : http://sphinx-doc.org/
