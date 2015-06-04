@@ -22,3 +22,10 @@ markdown http://daringfireball.net/projects/markdown/
 
 ##documentation generators
 Using Python : http://sphinx-doc.org/
+
+##collaborative documentation
+* wiki : 
+ http://en.wikipedia.org/wiki/Wiki
+ http://wikiindex.org/Welcome
+ https://wikiapiary.com/wiki/Main_Page
+ comparison of wikis : http://www.wikimatrix.org/
