@@ -1,7 +1,7 @@
 [Graphs](#graphs);
 [markup](#markup);
 [documentation generators](#documentation-generators);
-[collaborative documentation](collaborative-documentation)
+[collaborative documentation](#collaborative-documentation)
 
 ##Graphs
 ###editing
