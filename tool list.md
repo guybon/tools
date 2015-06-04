@@ -4,7 +4,7 @@ Using Emacs :
  http://cedet.sourceforge.net/cogre.shtml
  
 graphviz dot graphs
- http://orgmode.org/worg/org-tutorials/org-dot-diagrams.html
+ http://orgmode.org/worg/org-tutorials/org-dot-diagrams.html 
  http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
  
 ##markup
@@ -25,7 +25,7 @@ Using Python : http://sphinx-doc.org/
 
 ##collaborative documentation
 * wiki : 
-http://en.wikipedia.org/wiki/Wiki
-http://wikiindex.org/Welcome
-https://wikiapiary.com/wiki/Main_Page
+http://en.wikipedia.org/wiki/Wiki 
+http://wikiindex.org/Welcome 
+https://wikiapiary.com/wiki/Main_Page 
 comparison of wikis : http://www.wikimatrix.org/
