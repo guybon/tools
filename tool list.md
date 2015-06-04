@@ -1,5 +1,3 @@
-[Graphs](Graphs)
-
 ##Graphs
 ###editing
 Using Emacs :
