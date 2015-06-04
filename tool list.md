@@ -4,7 +4,7 @@ Using Emacs :
  http://cedet.sourceforge.net/cogre.shtml
  
 graphviz dot graphs
- http://orgmode.org/worg/org-tutorials/org-dot-diagrams.html 
+ http://orgmode.org/worg/org-tutorials/org-dot-diagrams.html  
  http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
  
 ##markup
