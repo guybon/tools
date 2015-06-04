@@ -5,6 +5,7 @@
 [reverse engineering]
 [modeling]
 [searching]
+[learning]  
 [Graphs](#graphs);
 [markup](#markup);
 [documentation generators](#documentation-generators);
