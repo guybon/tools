@@ -1,6 +1,6 @@
-[Graphs](#Graphs)
-[markup](#markup)
-[documetation generators](#documentation generators)
+[Graphs](#Graphs);
+[markup](#markup);
+[documentation generators](#documentation generators);
 
 ##Graphs
 ###editing
