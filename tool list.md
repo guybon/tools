@@ -3,11 +3,11 @@
 Using Emacs :
  http://cedet.sourceforge.net/cogre.shtml
  
- graphviz dot graphs
+graphviz dot graphs
  http://orgmode.org/worg/org-tutorials/org-dot-diagrams.html
  http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
  
- #markup
+#markup
  languages: pdf, html, css, xml, sgml ,restructured text, org-mode,trof, text, latext,markdown (github),scribe
 * http://en.wikipedia.org/wiki/List_of_markup_languages 
 * http://en.wikipedia.org/wiki/List_of_XML_markup_languages
