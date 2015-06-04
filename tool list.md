@@ -1,3 +1,5 @@
+[Graphs]
+
 ##Graphs
 ###editing
 Using Emacs :
