@@ -8,7 +8,7 @@ Using Emacs :
  
  #markup
  languages: pdf, html, css, xml, sgml ,restructured text, org-mode,trof, text, latext,markdown (github),scribe
-http://en.wikipedia.org/wiki/List_of_markup_languages 
+* http://en.wikipedia.org/wiki/List_of_markup_languages 
 http://en.wikipedia.org/wiki/List_of_XML_markup_languages
 http://en.wikipedia.org/wiki/General_purpose_markup_language
 http://en.wikipedia.org/wiki/List_of_document_markup_languages
