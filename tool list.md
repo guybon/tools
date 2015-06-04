@@ -1,3 +1,7 @@
+[Graphs](#Graphs)
+[markup](#markup)
+[documetation generators](#documentation generators)
+
 ##Graphs
 ###editing
 Using Emacs :
