@@ -16,3 +16,6 @@ Using Emacs :
 * http://en.wikipedia.org/wiki/List_of_lightweight_markup_languages
 * http://en.wikipedia.org/wiki/List_of_user_interface_markup_languages
 * http://en.wikipedia.org/wiki/List_of_vector_graphics_markup_languages
+
+# documentation generators
+Using Python : http://sphinx-doc.org/
