@@ -1,6 +1,6 @@
-[Graphs]
+[Graphs](Graphs)
 
-##[Graphs]
+##Graphs
 ###editing
 Using Emacs :
  http://cedet.sourceforge.net/cogre.shtml
